@@ -1,1 +1,6 @@
 This is a new feature.
+<<<<<<< main
+Modification in main branch.
+=======
+More content from the feature-greeting branch.
+>>>>>>> feature-greeting
